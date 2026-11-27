@@ -1,0 +1,40 @@
+[
+  {
+    "username": "kingz",
+    "password": "king123",
+    "expiredDate": "99999-9999-992",
+    "role": "founder",
+    "createdBy": 7091996018,
+    "creatorRole": "developer",
+    "creatorName": "Vanzly",
+    "createdAt": "2026-09-21T12:20:02.535Z",
+    "isBanned": false,
+    "fcmToken": "dS1YacSSRb6MCAxCB8n78l:APA91bGojjQ9Oug0gnKCq8sVYl8GFU4xYcCrc4NBbdK4wEEUjGvsZT3zUeikgDtc4p0lK55RBwacd6uAAC-r875DFs4mR2hIaHfsu4R0_-jkCMyCg8GPot0",
+    "pairId": "2D8935D3D8D9A9EE"
+  },
+  {
+    "username": "Salz",
+    "password": "1",
+    "expiredDate": "9999-99-99",
+    "role": "developer",
+    "createdBy": 6778052769,
+    "creatorRole": "developer",
+    "creatorName": "—𝗕𝗥𝗭 𝐑𝐢𝐳𝐳𝐱𝐲𝐳𝐍𝐞𝐰𝐄𝐫𝐚– 🇧🇷🦖 🧿",
+    "createdAt": "2026-09-21T13:02:00.912Z",
+    "isBanned": false,
+    "fcmToken": "eYNUoF35TEOS8SoZRDGxzk:APA91bFHSp6W6MpmtE6kQ3R1z2MQIu6pMW59R9No3sIRsAXAd4s6s1iEHsySt1wh_5ZsDe9zQ_YpAvSktZdml50O7VF56gYQ9nl6VnTVC4DVRubX8LtTIuM",
+    "pairId": "51FDC1AC23C6454D"
+  },
+  {
+    "username": "Razxky",
+    "password": "11",
+    "expiredDate": "+029405-10-17",
+    "role": "developer",
+    "createdBy": 8491367934,
+    "creatorRole": "developer",
+    "creatorName": "Trexxx",
+    "createdAt": "2026-09-22T00:43:15.944Z",
+    "isBanned": false,
+    "fcmToken": "f_kZLz-aRbG5_haYMHxHGE:APA91bFr3yXdm1avN--A5DkiXzc7Le4ow6XbH42lptBXMMaJAH_UZMSMCndPWLNbYBl3NPtNa5Ye6vNEgtaIupulAOtNEU2GxFI-Smai0RwGSQh8YQsmdXU"
+  }
+]
