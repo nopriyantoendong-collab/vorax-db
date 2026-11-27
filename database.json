@@ -49,6 +49,8 @@
     "buyerName": "buyer",
     "buyerTelegram": "@alyaacz",
     "paymentProofUrl": null,
-    "paymentProofUploadedAt": null
+    "paymentProofUploadedAt": null,
+    "isBanned": false,
+    "fcmToken": "eBsWL6lrRKWUqH9jdeEzRA:APA91bG8IwMzu2_6wVdyv55PFrkYZhDJPFofzdzP4jlJ3wJkHFVP46SAEiFvx-xDvTba-ThyndITbvv4C7EwnRD5Mbj0357FsTsrxocw4NUM8i3gx-yyI9I"
   }
 ]
