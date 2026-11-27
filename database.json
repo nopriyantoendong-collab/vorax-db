@@ -36,21 +36,5 @@
     "createdAt": "2026-09-22T00:43:15.944Z",
     "isBanned": false,
     "fcmToken": "f_kZLz-aRbG5_haYMHxHGE:APA91bFr3yXdm1avN--A5DkiXzc7Le4ow6XbH42lptBXMMaJAH_UZMSMCndPWLNbYBl3NPtNa5Ye6vNEgtaIupulAOtNEU2GxFI-Smai0RwGSQh8YQsmdXU"
-  },
-  {
-    "username": "alya",
-    "password": "1",
-    "role": "moderator",
-    "expiredDate": "13 Apr 2054, 11.28",
-    "createdAt": "2026-11-27T11:28:31.682Z",
-    "createdBy": "kingz",
-    "parent": "kingz",
-    "telegram": "@noprinotdev2",
-    "buyerName": "buyer",
-    "buyerTelegram": "@alyaacz",
-    "paymentProofUrl": null,
-    "paymentProofUploadedAt": null,
-    "isBanned": false,
-    "fcmToken": "eBsWL6lrRKWUqH9jdeEzRA:APA91bG8IwMzu2_6wVdyv55PFrkYZhDJPFofzdzP4jlJ3wJkHFVP46SAEiFvx-xDvTba-ThyndITbvv4C7EwnRD5Mbj0357FsTsrxocw4NUM8i3gx-yyI9I"
   }
 ]
